@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 public class latihancrud extends javax.swing.JFrame {
 
     /**
-     * Creates new form latihancrud
+     * Creates new form LATIHANCRUD
      */
     public latihancrud() {
         initComponents();
